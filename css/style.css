@@ -55,7 +55,7 @@ header a {
 
 #hero {
     height: 600px;
-    background-image:url(/images/hands-typing.jpg); 
+    background-image:url(../images/hands-typing.jpg); 
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
